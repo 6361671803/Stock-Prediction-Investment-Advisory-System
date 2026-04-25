@@ -1,6 +1,7 @@
 # 📈 Stock Prediction & Investment Advisory System
 
 ## 🧠 Overview
+##video on:https://youtu.be/MOzpy4MlltQ
 
 The **Stock Prediction & Investment Advisory System** is a machine learning-based application designed to help users make better investment decisions. The system analyzes historical stock data using a **Neural Network model (MLPClassifier)** and predicts whether a stock price is likely to increase or decrease.
 
